@@ -1,0 +1,7 @@
+Enter the String : qwertyh
+QW:ER:TY:H
+Total Number of element in mapper :  1
+Enter key :Q
+Enter values :0
+{'Q': '0'}
+QW:ER:TY:H
