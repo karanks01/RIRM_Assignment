@@ -1,7 +1,9 @@
-Enter the String : qwertyh
-QW:ER:TY:H
-Total Number of element in mapper :  1
-Enter key :Q
+Enter the String : ecb08te4
+EC:B0:8T:E4
+Total Number of element in mapper :  2
+Enter key :e
 Enter values :0
-{'Q': '0'}
-QW:ER:TY:H
+Enter key :t
+Enter values :0
+{'e': '0', 't': '0'}
+0C:B0:80:04
